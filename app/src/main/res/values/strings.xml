@@ -3,4 +3,12 @@
     <string name="finger_print_scanner">Finger Print Scanner</string>
     <string name="use_your_finger_print_to_login">Use Your Finger Print to Login</string>
     <string name="login">Login</string>
+    <string name="login_successful">Login Successful</string>
+    <string name="finger_print_enabled_message">You can use the finger sensor to login.</string>
+    <string name="incompatible_device_message">This device does not have a fingerprint scanner.</string>
+    <string name="finger_print_disabled_message">"The biometric sensor is currently unavailable."</string>
+    <string name="finger_print_not_configured_message">"Finger Print Scanner is not configured yet!"</string>
+    <string name="security_update_message">"Security Update Required!"</string>
+    <string name="finger_print_not_supported_message">"Finger Print Scan Not Supported!"</string>
+    <string name="finger_print_unknown_message">"Finger Print Scan Unknown!"</string>
 </resources>
